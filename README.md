@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## "codes"
-<div align="center">
+<div align="left">
   <a href="https://github.com/WodenVv">
   <img height="180em" img-align = "left" style="text-align: left; height: 400px; "src="https://i.pinimg.com/originals/b5/fd/3f/b5fd3fbe984103e08b9482471484394b.gif"/>
 </div>
