@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <hr>
-<div align="left">
+<div align="center">
   <a href="https://github.com/WodenVv">
   <img height="180em" img-align = "center" style="border-style: solid 1px; height: 400px;" src="https://i.pinimg.com/originals/b5/fd/3f/b5fd3fbe984103e08b9482471484394b.gif"/>
 </div>
