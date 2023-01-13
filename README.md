@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>Hi, Im Woden</h1>
+<h1>Hi, I'm a programer
 <hr>
 <div align="center">
   <a href="https://github.com/WodenVv">
