@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## "codes"
 <div align="left">
   <a href="https://github.com/WodenVv">
-  <img height="180em" img-align = "left" style="border-style: 1px solid; height: 400px;" src="https://i.pinimg.com/originals/b5/fd/3f/b5fd3fbe984103e08b9482471484394b.gif"/>
+  <img height="180em" img-align = "left" style="border-style: solid; height: 400px;" src="https://i.pinimg.com/originals/b5/fd/3f/b5fd3fbe984103e08b9482471484394b.gif"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
