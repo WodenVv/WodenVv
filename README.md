@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/WodenVv">
   <img height="180em" img-align = "left" style="border-style: solid 1px; height: 400px;" src="https://i.pinimg.com/originals/b5/fd/3f/b5fd3fbe984103e08b9482471484394b.gif"/>
 </div>
-  ##
+<hr>
  
 <div align="center"> 
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
