@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h3>Hi, im a developer</h3>
-<h5>Technical training in InfoWeb (IFRN)<br>
+<h4>Technical training in InfoWeb (IFRN)<br>
   Currently pursuing a degree in Internet Systems (IFRN)
-</h5>
+</h4>
 <hr>
 <div align="center">
   <a href="https://github.com/WodenVv">
